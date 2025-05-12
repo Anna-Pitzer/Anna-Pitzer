@@ -1,15 +1,22 @@
-## Olá! Eu sou a Anna
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=645484"/>
 
-Sou estudande de Ciências da Computação, atualmente dedico-me em tempo integral aos estudos de Front e back-end.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&width=600&lines=Welcome!" alt="Typing SVG" /> <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Pixelify+Sans&pause=1000&color=BD8EE4&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Anna+Pitzer;i'm+a+computer+science+student+and+web+developer+" alt="Typing SVG" />
+</div>
 
 ##
 
-<div> 
-  <a href="https://github.com/Anna-Pitzer"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Anna-Pitzer&show_icons=true&theme=nightowl"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anna-Pitzer&layout=compact&theme=nightowl"/>
+<p align="center">I'm currently studying Front and Back-end while looking for internship opportunities in the area.</p>
+
+##
+
+<div align="center"> 
+  <img height=165 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Anna-Pitzer&theme=nightowl&hide_border=true"/>
+  <img height=165 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anna-Pitzer&layout=compact&hide_border=true&theme=nightowl"/>
+  <img align="center" alt="Top Language" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anna-Pitzer&theme=nightowl"/>
+  <img height="154" align="center" alt="Current Streak" src="https://github-readme-streak-stats.herokuapp.com?user=Anna-Pitzer&theme=nightowl" alt="GitHub Streak" />
 </div>
-<img align="right" alt="gif" src=
 
 ##
 
@@ -21,3 +28,5 @@ Sou estudande de Ciências da Computação, atualmente dedico-me em tempo integr
   <img align="center" alt="Anna-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" alt="Anna-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg"/>
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=645484&section=footer"/>
